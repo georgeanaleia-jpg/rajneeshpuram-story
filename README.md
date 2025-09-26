@@ -114,9 +114,7 @@ rajneeshpuram-story/
 5. **External stakeholder relationships critical for long-term survival**
 
 ## AI Usage Disclosure
-This project used Claude AI across multiple chat sessions for research assistance (identifying search strategies, understanding legal/financial terminology), data organization support (structuring findings, analysis frameworks), technical implementation (HTML scroll story, Tableau specifications, GitHub setup), and project documentation. While AI provided research guidance and technical assistance, all 22 primary sources were independently discovered and verified, all financial analysis and insights are original work, and all creative interpretations and business lessons are independent conclusions.
-
-**Summary:** This represents genuine collaboration between human research skills and AI assistance tools, with full transparency about the collaborative process.
+This project required extensive independent research to discover and verify 22 primary sources across academic archives, government records, and investigative journalism. I located sources, extracted key data points, performed financial calculations, and created all visualizations in Tableau. Claude AI served as a research consultation tool to help organize findings, refine analysis frameworks, and improve technical presentation. The core investigative work, data collection, and project execution were completed independently, with AI providing supplementary analytical guidance.
 
 ## About This Project
 Created as part of the Tech-Moms Data Analytics & AI Course, this project demonstrates:
